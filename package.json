@@ -1,0 +1,14 @@
+{
+    "name": "enquiry-form",
+    "version": "1.0.0",
+    "description": "An enquiry form with database connectivity",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^4.19.2",
+        "mongoose": "^5.13.22"
+    }
+}
